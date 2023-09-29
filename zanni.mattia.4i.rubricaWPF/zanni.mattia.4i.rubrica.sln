@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zanni.mattia.4i.rubrica", "zanni.mattia.4i.rubrica\zanni.mattia.4i.rubrica.csproj", "{D91CD890-BADF-48AF-AEFB-BBEA4FD6F471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91CD890-BADF-48AF-AEFB-BBEA4FD6F471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91CD890-BADF-48AF-AEFB-BBEA4FD6F471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91CD890-BADF-48AF-AEFB-BBEA4FD6F471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91CD890-BADF-48AF-AEFB-BBEA4FD6F471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C20E7CF-34BD-4DF7-A7C6-40B6DE29EE26}
+	EndGlobalSection
+EndGlobal
